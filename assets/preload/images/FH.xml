@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FH.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FH0000" x="0" y="0" width="1387" height="823" frameX="-1" frameY="-18" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0001" x="1387" y="0" width="1387" height="815" frameX="-2" frameY="-25" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0002" x="2774" y="0" width="1391" height="811" frameX="0" frameY="-31" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0003" x="4165" y="0" width="1379" height="779" frameX="-6" frameY="-48" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0004" x="5544" y="0" width="1391" height="807" frameX="-2" frameY="-34" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0005" x="0" y="823" width="1391" height="819" frameX="-2" frameY="-23" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0006" x="1391" y="823" width="1387" height="827" frameX="-1" frameY="-15" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0007" x="2778" y="823" width="1375" height="835" frameX="-7" frameY="-10" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0008" x="4153" y="823" width="1383" height="839" frameX="-3" frameY="-5" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0009" x="5536" y="823" width="1387" height="827" frameX="-3" frameY="-14" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0010" x="0" y="1662" width="1387" height="836" frameX="-2" frameY="-4" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0011" x="1387" y="1662" width="1387" height="836" frameX="-3" frameY="-3" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0012" x="2774" y="1662" width="1391" height="840" frameX="0" frameY="0" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0013" x="4165" y="1662" width="1387" height="840" frameX="-3" frameY="-4" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0014" x="0" y="1662" width="1387" height="836" frameX="-3" frameY="-7" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0015" x="5552" y="1662" width="1387" height="816" frameX="-3" frameY="-22" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0016" x="0" y="2502" width="1375" height="828" frameX="-4" frameY="-12" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0017" x="1375" y="2502" width="1391" height="828" frameX="-1" frameY="-10" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0018" x="2774" y="1662" width="1391" height="840" frameX="-1" frameY="-2" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0019" x="2766" y="2502" width="1387" height="824" frameX="-3" frameY="-18" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0020" x="4153" y="2502" width="1387" height="832" frameX="-3" frameY="-11" frameWidth="1393" frameHeight="846"/>
+	<SubTexture name="FH0021" x="5540" y="2502" width="1391" height="840" frameX="0" frameY="-6" frameWidth="1393" frameHeight="846"/>
+</TextureAtlas>
