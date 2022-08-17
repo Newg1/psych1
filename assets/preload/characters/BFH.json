@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1164,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BoyFunkHead idle"
+		},
+		{
+			"offsets": [
+				1163,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BoyFunkHead right"
+		},
+		{
+			"offsets": [
+				1163,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BoyFunkHead left"
+		},
+		{
+			"offsets": [
+				1158,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BoyFunkHead down"
+		},
+		{
+			"offsets": [
+				1150,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BoyFunkHead up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFunkHead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "BFH",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1030,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
